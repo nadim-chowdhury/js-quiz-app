@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: bisque;
+  padding-bottom: 40px;
+  width: 360px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+button {
+  cursor: pointer;
+}
